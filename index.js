@@ -82,7 +82,7 @@ function getFieldIndex(layer) {
     return {
         outerLeft: 0,
         previousOuterRight: layer - 1,
-        couterRight: layer
+        outerRight: layer
     }
 }
 
